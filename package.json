@@ -1,0 +1,15 @@
+{
+  "name": "marcos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Eugenio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifpi-picos/nodejs-api-marcosefloresta/issues"
+  },
+  "homepage": "https://github.com/ifpi-picos/nodejs-api-marcosefloresta#readme"
+}
