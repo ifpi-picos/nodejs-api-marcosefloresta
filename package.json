@@ -1,16 +1,25 @@
 {
-  "name": "marcos",
+  "name": "nodejs-api-jessesf2604",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "nodejs-api-jessesf2604 created by GitHub Classroom",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.5"
   },
-  "author": "Marcos Eugenio",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifpi-picos/nodejs-api-jessesf2604.git"
+  },
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ifpi-picos/nodejs-api-marcosefloresta/issues"
+    "url": "https://github.com/ifpi-picos/nodejs-api-jessesf2604/issues"
   },
-  "homepage": "https://github.com/ifpi-picos/nodejs-api-marcosefloresta#readme"
+  "homepage": "https://github.com/ifpi-picos/nodejs-api-jessesf2604#readme"
 }
-BORA APRENDER A FAZER OS CODIGOS
